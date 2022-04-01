@@ -671,6 +671,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#skunks-skool)
 
 - [DataTalks.Club](https://datatalks.club)
+- [Data Sciene Salon](https://community.dataquest.io/)
+- [Data Sceientist Sign up form](https://docs.google.com/forms/d/e/1FAIpQLSesL4zw0fuLxmwCeCQ7oVuZjQrVIsoKtFhySk4UlbDO48sZRw/viewform)
+
 
 
 # Github Groups
@@ -797,6 +800,9 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Data Leaders](https://dataleaders.net/community/) 
+- [Open Data Science Community](https://opendatascience.com/)
+- [Data Talks](https://datatalks.club/)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
